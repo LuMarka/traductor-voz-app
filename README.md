@@ -148,4 +148,10 @@ Este proyecto está bajo la Licencia MIT. Ver el archivo `LICENSE` para más det
 
 ---
 
+## 👥 **Autoría**
+
+**Desarrollado y diseñado por P & M DevWeb**
+
+---
+
 **¡Disfruta traduciendo con tu nueva app móvil! 🌍📱**

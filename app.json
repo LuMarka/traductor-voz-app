@@ -1,6 +1,6 @@
 {
   "expo": {
-    "name": "TestTraductor",
+    "name": "Traductor de Voz - P&M DevWeb",
     "slug": "TestTraductor",
     "version": "1.0.0",
     "orientation": "portrait",
@@ -21,10 +21,19 @@
         "backgroundColor": "#ffffff"
       },
       "edgeToEdgeEnabled": true,
-      "predictiveBackGestureEnabled": false
+      "predictiveBackGestureEnabled": false,
+      "package": "com.pmdevweb.traductorapp"
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "4b5a6e52-78b0-4dc0-96eb-623590d0e255"
+      }
+    },
+    "plugins": [
+      "expo-font"
+    ]
   }
 }
