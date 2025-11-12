@@ -219,8 +219,8 @@ export default function App() {
 
           {/* Footer */}
           <View style={styles.footer}>
-            <Text style={styles.footerText}>Traducción por MyMemory API</Text>
-            <Text style={styles.footerText}>Desarrollado y diseñado por P & M DevWeb</Text>
+            <Text style={styles.footerText}>Traducción mediante MyMemory API</Text>
+            <Text style={styles.footerText}>Desarrollado y diseñado por Aurea DevWeb</Text>
           </View>
         </ScrollView>
       </LinearGradient>
