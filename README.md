@@ -150,7 +150,7 @@ Este proyecto está bajo la Licencia MIT. Ver el archivo `LICENSE` para más det
 
 ## 👥 **Autoría**
 
-**Desarrollado y diseñado por P & M DevWeb**
+**Desarrollado y diseñado por Aurea DevWeb**
 
 ---
 
