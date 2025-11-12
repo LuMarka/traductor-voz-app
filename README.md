@@ -64,7 +64,7 @@ Esta aplicación utiliza **MyMemory Translation API** para realizar las traducci
 
 1. **Abre este enlace en tu teléfono:**
    ```
-   https://expo.dev/accounts/lumarka/projects/TestTraductor/builds/5ad01541-eaa7-43ec-8bb7-0281624ba525
+   https://expo.dev/accounts/lumarka/projects/TestTraductor/builds/063fa175-9040-40df-8ec2-3b1afe0fff0b
    ```
    - Cópialo en tu navegador (Chrome, Firefox, etc.)
 
